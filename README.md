@@ -1,18 +1,11 @@
-# freshcart
+##FreshCart
 
-A new Flutter project.
+FreshCart - A Grocery Shopping Mobile Application (Both frontend and backend) created with Flutter and Firebase.
 
-## Getting Started
+## Note
+This repository is still under development and I will continue to add more features to it.
 
-This project is a starting point for a Flutter application.
+##ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-new readme line added
+<p>
+</p>
