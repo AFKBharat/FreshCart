@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32079840668",
+    "project_id": "freshcart-2fae2",
+    "storage_bucket": "freshcart-2fae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32079840668:android:a061cb981d48af8fc33459",
+        "android_client_info": {
+          "package_name": "com.example.freshcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaTyh-cQyfWCRsp5Ipq2Y8TeL8uPbJwmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
